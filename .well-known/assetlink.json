@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dgupta777.newsly",
+      "sha256_cert_fingerprints": [
+        "4B:FF:76:1E:BB:C4:BC:D6:BD:1A:23:B1:61:3E:11:B5:A2:62:F9:D7:33:BF:0B:EB:72:C1:B1:3B:74:52:33:FA",
+        "34:C3:67:09:15:84:43:97:43:75:DD:81:55:2A:6B:62:88:EA:28:A3:32:2C:79:B6:55:DE:5A:8D:66:A2:B3:FE"
+      ]
+    }
+  }
+]
