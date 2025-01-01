@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.darshitgupta.newsly",
+      "package_name": "com.dgupta777.newsly",
       "sha256_cert_fingerprints": [
-        "E3:20:ED:A7:6A:CF:4C:C2:C0:FA:FE:0D:1B:74:61:38:05:7C:E3:2D:DF:6C:61:9D:E3:1E:80:64:AF:02:57:A8",
+        "96:4B:8F:A5:B7:FF:4B:C4:2A:5A:5A:97:2A:B9:A3:9C:79:D5:F2:B5:E4:93:74:4F:5C:79:D0:FD:70:CC:E2:29",
       ]
     }
   }
